@@ -1,0 +1,12 @@
+{
+  "name": "temp-mail-app",
+  "version": "1.0.0",
+  "description": "Temporary email web app using 1secmail API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
